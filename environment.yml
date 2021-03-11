@@ -2,5 +2,5 @@ name: standard-ml-environment
 channels:
   - conda-forge
 dependencies:
-  - sklearn
+  - scikit-learn
   - matplotlib
